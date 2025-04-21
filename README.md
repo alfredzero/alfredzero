@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfredzero
-- 👀 I’m interested in C++, Swift, Java
+- 👀 I’m interested in C++, Swift, Java, Kotlin, Javascript
 - 📫 How to reach me alfredojr@alfredoamezcua.com
 
 <!---
