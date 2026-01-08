@@ -1,7 +1,7 @@
 <!-- Profile README for alfredzero -->
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="alfredzero — software • hardware • people" />
+  <img src="https://github.com/alfredzero/alfredzero/blob/f40e408bdb91e7d021ad85bfa4c20b9b240fcfd6/assets/hero.png" alt="alfredzero — software • hardware • people" />
 </div>
 
 <div align="center">
