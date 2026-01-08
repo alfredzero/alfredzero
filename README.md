@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alfredzero
+ 👋 Hi, I’m @alfredzero
 
 - 👀 Follow my growth across software, hardware & people.
 
@@ -7,6 +7,9 @@ Live Portfolio
 - estructura docs: https://github.com/alfredzero/Estructura
 
 Watch me build live apps and help you build any of yours even if you never done so : https://www.skool.com/the-shortcut-to-app-success-4806
+
+My current youtube playlist:
+- [redacted]
 
 
 <!---
