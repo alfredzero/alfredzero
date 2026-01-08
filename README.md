@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @alfredzero
-- 👀 I’m interested in C++, Swift, Java, Kotlin, Javascript
+
+- 👀 Follow my growth across software, hardware & people.
+
+Live Portfolio
+- https://steats.app
+
 - 📫 How to reach me alfredojr@alfredoamezcua.com
 
 <!---
