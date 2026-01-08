@@ -8,7 +8,6 @@ Live Portfolio
 
 Watch me build live apps and help you build any of yours even if you never done so : https://www.skool.com/the-shortcut-to-app-success-4806
 
-- 📫 How to reach me alfredojr@alfredoamezcua.com
 
 <!---
 alfredzero/alfredzero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
