@@ -1,18 +1,10 @@
 <!-- Profile README for alfredzero -->
 
-<div align="center">
-  <img src="https://github.com/alfredzero/alfredzero/blob/f40e408bdb91e7d021ad85bfa4c20b9b240fcfd6/assets/hero.png" alt="alfredzero — software • hardware • people" />
-</div>
-
-<div align="center">
 
 **@alfredzero**  
-building systems that touch **software**, **hardware**, and **people**.
+building ai systems that touch **software**, **hardware**, and **people**.
 
-<a href="https://www.skool.com/the-shortcut-to-app-success-4806">Build with me (Skool)</a> •
-<a href="https://steats.app">Steats (Live)</a> •
-<a href="https://github.com/alfredzero/Steats">Steats (Repo)</a> •
-<a href="https://github.com/alfredzero/Estructura">Estructura (Repo)</a>
+AI CLI TOOL : https://github.com/alfredzero/ai-cli.git
 
 </div>
 
